@@ -1,7 +1,7 @@
-#Git lab
+# Git Lab
 
 ## Description
-This repository contains pratical exercises on Git and GitHub (first day of my DevOps journey) : commits, branches, merge, conflicts and pull requests.
+This repository contains practical exercises on Git and GitHub (first day of my DevOps journey): commits, branches, merge, conflicts and pull requests.
 
 ## Useful commands
 
